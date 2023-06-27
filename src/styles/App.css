@@ -1,1 +1,12 @@
 
+
+.app{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100vw;
+}
+.data{
+    display: flex;
+    flex-wrap: wrap;
+}
